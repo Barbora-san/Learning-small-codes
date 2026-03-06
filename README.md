@@ -1,34 +1,41 @@
 # Learning-small-codes
 # Programování – Procvičovací úlohy
 
-Sbírka menších programovacích úloh a jejich řešení.  
-Tahle krabička je takový můj deník kódování – zadání + řešení, kam si dávám všechno, co zkoušíme, učíme se nebo testujeme.
+Sbírka malých programovacích úloh a jejich řešení.
 
-## Jak to je uspořádané
+Repozitář slouží jako studijní materiál – každá úloha obsahuje zadání a jedno možné řešení. Cílem je procvičování syntaxe, algoritmického myšlení a základních programovacích principů.
 
+## Struktura
+
+```
 exercises/
 │
 ├── exercise_name/
-│   ├── task.md       # zadání úlohy
-│   └── Solution.java # moje řešení
+│   ├── task.md
+│   └── Solution.java
+```
 
-Každá složka = jedna úloha. Task je zadání, Solution je moje konkrétní řešení (samozřejmě existují i jiné možnosti).
+* **task.md** – zadání úlohy
+* **Solution.java** – jedno možné řešení
 
-## Na co se tu zaměřujeme
+## Zaměření
 
-- proměnné a datové typy  
-- podmínky a cykly  
-- práce s textem  
-- jednoduché algoritmy  
-- seznamy, slovníky, funkce  
-- základy práce se soubory  
-- rozumné členění kódu a čitelný styl  
-- postupné zlepšování struktury kódu  
-- malé kousky backendu a databáze  
+Úlohy se zaměřují například na:
 
-Tak nějak postupně přidávám věci, které mě učí, jak psát kód, co dává smysl, a jak to všechno spojit dohromady.
+* práci s proměnnými
+* podmínky
+* cykly
+* práci s textem
+* jednoduché algoritmy
+* práci se seznamy a slovníky
+* psaní a používání funkcí
+* základní práci se soubory
+* rozdělování kódu do menších logických částí
+* postupné zlepšování čitelnosti a struktury kódu
+* základy práce s databázemi
+* postupné pochopení principů backendu
 
-## Důležité info
+## Poznámka
 
-- Řešení nejsou univerzální ani nejefektivnější – spíš ukázka jedné cesty.  
-- Cílem je experimentovat, učit se a zkoušet různé způsoby.
+Řešení nejsou vždy jediná možná ani nutně nejoptimálnější.
+Repozitář slouží především k učení a experimentování.

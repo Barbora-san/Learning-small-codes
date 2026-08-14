@@ -1,41 +1,31 @@
-# Learning-small-codes
-# Programování – Procvičovací úlohy
+# Learning Small Codes
 
-Sbírka malých programovacích úloh a jejich řešení.
+Small programming exercises that I use to practice programming.
 
-Repozitář slouží jako studijní materiál – každá úloha obsahuje zadání a jedno možné řešení. Cílem je procvičování syntaxe, algoritmického myšlení a základních programovacích principů.
+This repository contains several exercises that I worked on while learning different programming concepts. Each exercise includes a task and my solution directly in the project.
 
-## Struktura
+## What I practice
 
-```
-exercises/
-│
-├── exercise_name/
-│   ├── task.md
-│   └── Solution.java
-```
+Depending on the exercise, the topics include:
 
-* **task.md** – zadání úlohy
-* **Solution.java** – jedno možné řešení
+* variables and data types
+* conditions and loops
+* functions and procedures
+* working with text
+* lists and other data structures
+* simple algorithms
+* working with files
+* working with databases
+* basic object-oriented programming
 
-## Zaměření
+## Programming languages
 
-Úlohy se zaměřují například na:
+Most of the exercises are created while learning **K2 Script (Object Pascal)**, but the repository is not limited to one programming language. Other languages, such as Java, may also appear depending on what I am currently practicing.
 
-* práci s proměnnými
-* podmínky
-* cykly
-* práci s textem
-* jednoduché algoritmy
-* práci se seznamy a slovníky
-* psaní a používání funkcí
-* základní práci se soubory
-* rozdělování kódu do menších logických částí
-* postupné zlepšování čitelnosti a struktury kódu
-* základy práce s databázemi
-* postupné pochopení principů backendu
+## Tasks and solutions
 
-## Poznámka
+For newer exercises, I write the task directly as a comment in the source code, so the task can be read together with the solution.
 
-Řešení nejsou vždy jediná možná ani nutně nejoptimálnější.
-Repozitář slouží především k učení a experimentování.
+The solutions are my own attempts and may not be the only or the best way to solve a particular exercise.
+
+I mainly use this repository to practice programming and keep small exercises that I can come back to later.

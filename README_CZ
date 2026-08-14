@@ -1,0 +1,31 @@
+# Learning Small Codes
+
+Menší úlohy, na kterých si procvičuji programování.
+
+V repozitáři mám několik úloh, které jsem řešila při učení různých programovacích konceptů. U každé úlohy je zadání a moje řešení přímo v projektu.
+
+## Co si tu procvičuji
+
+Podle konkrétní úlohy se tu objevuje například:
+
+* proměnné a datové typy
+* podmínky a cykly
+* funkce a procedury
+* práce s textem
+* seznamy a další datové struktury
+* jednoduché algoritmy
+* práce se soubory
+* práce s databázemi
+* základy objektově orientovaného programování
+
+## Použité jazyky
+
+Většina úloh vzniká při učení **K2 Scriptu (Object Pascal)**, ale nejsou tu pouze úlohy v jednom jazyce. Podle toho, co zrovna procvičuji, se mohou objevit i jiné jazyky, například Java.
+
+## Zadání a řešení
+
+Zadání u novějších úloh píšu přímo jako komentář do zdrojového kódu, takže je možné si ho přečíst rovnou vedle řešení.
+
+Řešení jsou moje vlastní pokusy a nemusí být jediným nebo nejlepším způsobem, jak danou úlohu vyřešit.
+
+Tenhle repozitář používám hlavně pro procvičování a ukládání menších úloh, ke kterým se můžu později vrátit.
